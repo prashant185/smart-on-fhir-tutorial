@@ -182,7 +182,12 @@ This tutorial is designed to have a minimal footprint so we made the decision to
   <span class="nt">&lt;head&gt;</span>
     <span class="nt">&lt;meta</span> <span class="na">http-equiv=</span><span class="s">'X-UA-Compatible'</span> <span class="na">content=</span><span class="s">'IE=edge'</span> <span class="nt">/&gt;</span>
     <span class="nt">&lt;meta</span> <span class="na">http-equiv=</span><span class="s">'Content-Type'</span> <span class="na">content=</span><span class="s">'text/html; charset=utf-8'</span> <span class="nt">/&gt;</span>
+<<<<<<< HEAD
     <span class="nt">&lt;title&gt;</span>Prashant example-SMART-App<span class="nt">&lt;/title&gt;</span>
+=======
+    <span class="nt">&lt;title&gt;</span>[prashant185] Example-SMART-App<span class="nt">&lt;/title&gt;</span>
+>>>>>>> 1626c56a74540337075987621d125068872703c4
+    ...
 </code></pre></div>
 <blockquote>
 <p>Go to your GitHub account, select Repositories tab and select smart-on-fhir-tutorial repo. Select Branch button and switch to gh-pages branch if it is not already selected. Directly edit <code class="prettyprint">/example-smart-app/index.html</code> by clicking on the pencil icon.  Once done with the change, commit directly to gh-pages branch, this will ensure your changes are auto deployed by GitHub.</p>
